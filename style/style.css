@@ -14,3 +14,10 @@ span {
     font-size: 100px;
     color: white;
 }
+.main{
+    background: #000;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
